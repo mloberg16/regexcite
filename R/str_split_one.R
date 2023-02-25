@@ -7,7 +7,7 @@
 #' @export
 #'
 #' @examples
-#' #' x <- "alfa,bravo,charlie,delta"
+#' x <- "alfa,bravo,charlie,delta"
 #' str_split_one(x, pattern = ",")
 #' str_split_one(x, pattern = ",", n = 2)
 #'
